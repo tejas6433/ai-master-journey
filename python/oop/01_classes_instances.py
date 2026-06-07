@@ -14,6 +14,6 @@ class Employee:
 emp_1 = Employee('Tejas', 'Dutt', 150000)
 emp_2 = Employee('Test', 'User', 99)
 
-
+ 
 print(Employee.fullname(emp_1))
 print(emp_2.fullname())
